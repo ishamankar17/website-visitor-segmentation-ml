@@ -1,0 +1,42 @@
+{
+  "0": {
+    "name": "High-Value Buyers",
+    "description": "Returning visitors who view lots of pages, reach high-value pages and convert at the highest rate.",
+    "action": "Protect the experience: loyalty perks, cross-sell/upsell, and a frictionless checkout.",
+    "visitors": 2118,
+    "share": 0.1735,
+    "conversion_rate": 0.5458
+  },
+  "1": {
+    "name": "Light Browsers",
+    "description": "Returning visitors with short, shallow sessions and low purchase intent.",
+    "action": "Surface bestsellers and personalised recommendations to deepen the visit.",
+    "visitors": 2743,
+    "share": 0.2247,
+    "conversion_rate": 0.0182
+  },
+  "2": {
+    "name": "Engaged Browsers",
+    "description": "Returning visitors who browse deeply for a long time but rarely reach valuable pages.",
+    "action": "Retarget with reminders, comparison tools and limited-time incentives to close the gap.",
+    "visitors": 5075,
+    "share": 0.4158,
+    "conversion_rate": 0.0621
+  },
+  "3": {
+    "name": "Bouncers",
+    "description": "Land on the site and leave almost immediately: ~2 pages, a few seconds, very high bounce rate.",
+    "action": "Improve landing-page relevance and load speed; review the traffic sources sending them.",
+    "visitors": 648,
+    "share": 0.0531,
+    "conversion_rate": 0.0046
+  },
+  "4": {
+    "name": "New Visitor Prospects",
+    "description": "First-time visitors with solid engagement and a surprisingly high purchase rate.",
+    "action": "Welcome offers, onboarding content and email capture to turn them into returning customers.",
+    "visitors": 1621,
+    "share": 0.1328,
+    "conversion_rate": 0.2369
+  }
+}

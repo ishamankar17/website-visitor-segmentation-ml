@@ -1,0 +1,9 @@
+# Runtime dependencies (the saved model was trained with scikit-learn 1.8.x;
+# pickled models are version-sensitive, so keep this pin or re-run `python main.py`)
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.8,<1.9
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.3
+streamlit>=1.51
