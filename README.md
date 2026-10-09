@@ -23,7 +23,5 @@ An end-to-end machine learning project that segments website visitors based on t
 ## Dataset
 **UCI Online Shoppers Purchasing Intention Dataset** — contains 12,330 website sessions with visitor behaviour, browsing activity, and purchase-related information.
 
-
-- `tests/` – Automated tests
 - `main.py` – Main pipeline execution script
 - `Dockerfile` – Container configuration
